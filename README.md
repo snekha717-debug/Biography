@@ -2,7 +2,7 @@
 
 Welcome to my personal biography webpage! This project is a clean, semantic, and modern responsive website built as part of my web development journey. It showcases a brief introduction about myself, my core technical interests, and the projects I am currently working on.
 
-🔗 **Live Demo:** [Insert your hosted GitHub Pages URL here]
+🔗 **Live Demo:**https://snekha717-debug.github.io/Biography/
 
 ---
 
